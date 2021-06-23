@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MineshPradhan
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning JavaScript
-- 📫 Contact me at mineshpradhan2002@gmail.com
+- 📫 Contact me at www.minesh2001@gmail.com
 
 <!---
 MineshPradhan/MineshPradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
