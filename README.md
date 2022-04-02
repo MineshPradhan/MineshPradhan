@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minesh Pradhan
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Designing and Graphic Designing
 - 🌱 I’m currently learning JavaScript
 - 📫 Contact me at www.minesh2001@gmail.com
 
