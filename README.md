@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minesh Pradhan
 - 👀 I’m interested in Web Designing and Graphic Designing
-- 🌱 I’m currently learning JavaScript and it's frameworks
+- 🌱 Curently pursuing Masters in CSE
 - 📫 Contact me at www.minesh2001@gmail.com and mineshpradhan2002@gmail.com
 <!---
 MineshPradhan/MineshPradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
